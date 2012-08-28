@@ -14,9 +14,9 @@ function arrows_and_boxes_init() {
   $path_css  = $path . "/style";
 
   // add js and css
-  drupal_add_css( $path_css . "/arrowsandboxes.css", 'module');
-  drupal_add_js( $path_js . "/jquery.wz_jsgraphics.js", 'module');
-  drupal_add_js( $path_js . "/arrowsandboxes.js", 'module');
+  drupal_add_css( $path_css . "/arrowsandboxes.css");
+  drupal_add_js( $path_js . "/jquery.wz_jsgraphics.js");
+  drupal_add_js( $path_js . "/arrowsandboxes.js");
 
 }
 
