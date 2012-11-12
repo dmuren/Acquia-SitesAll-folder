@@ -36,12 +36,12 @@
 			"color_highlighted": "#4a4a4a"
 		},
 		"node": {
-			"width": 146,
-			"height": 32,
+			"width": 60,
+			"height": 30,
 			"height_with_subtitle": 56,
 			"center_y": 15,
-			"margin_right": 64,
-			"margin_bottom": 56,
+			"margin_right": 10,
+			"margin_bottom": 30,
 			"border_size": 2
 		}
 	
